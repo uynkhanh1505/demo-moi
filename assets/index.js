@@ -22,16 +22,16 @@ const songs = [
     },
 
     {
-        path:'demo-moi/assets/mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
+        path:'assets/mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
         displayName: 'If I Can Stop One Heart From Breaking',
-        cover:'demo-moi/assets/img/robin2.jpg',
+        cover:'assets/img/robin2.jpg',
         artist: 'Hoyo Mix/Chevy'
     },
 
     {
         path:'assets/mp3/Sway to My Beat.mp3',
         displayName: 'Sway to My Beat in Cosmos',
-        cover:'./img/robin3.jpeg',
+        cover:'assets/img/robin3.jpeg',
         artist: 'Hoyo Mix/Chevy'
     },
 ]; 
