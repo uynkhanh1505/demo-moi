@@ -22,9 +22,9 @@ const songs = [
     },
 
     {
-        path:'assets/mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
+        path:'demo-moi/assets/mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
         displayName: 'If I Can Stop One Heart From Breaking',
-        cover:'img/robin2.jpg',
+        cover:'demo-moi/assets/img/robin2.jpg',
         artist: 'Hoyo Mix/Chevy'
     },
 
