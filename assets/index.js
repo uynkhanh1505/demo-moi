@@ -15,23 +15,23 @@ const music = new Audio();
 
 const songs = [
     {
-        path:'./mp3/EP Hope Is the Thing With Feathers  Honkai Star Rail.mp3',
+        path:'assets/mp3/EP Hope Is the Thing With Feathers  Honkai Star Rail.mp3',
         displayName: 'Hope Is the Thing With Feathers',
-        cover:'./img/Screenshot (2331).png',
+        cover:'/assets/img/Screenshot (2331).png',
         artist: 'Hoyo Mix/Chevy'
     },
 
     {
-        path:'./mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
+        path:'assets/mp3/EP If I Can Stop One Heart From Breaking  Honkai Star Rail.mp3',
         displayName: 'If I Can Stop One Heart From Breaking',
-        cover:'./img/robin2.jpg',
+        cover:'assets/img/robin2.jpg',
         artist: 'Hoyo Mix/Chevy'
     },
 
     {
-        path:'./mp3/Sway to My Beat.mp3',
+        path:'assets/mp3/Sway to My Beat.mp3',
         displayName: 'Sway to My Beat in Cosmos',
-        cover:'./img/robin3.jpeg',
+        cover:'assests/img/robin3.jpeg',
         artist: 'Hoyo Mix/Chevy'
     },
 ]; 
