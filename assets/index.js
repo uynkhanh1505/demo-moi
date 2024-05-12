@@ -17,7 +17,7 @@ const songs = [
     {
         path:'assets/mp3/EP Hope Is the Thing With Feathers  Honkai Star Rail.mp3',
         displayName: 'Hope Is the Thing With Feathers',
-        cover:'assets/img/Screenshot (2331).png',
+        cover:'./assets/img/Screenshot (2331).png',
         artist: 'Hoyo Mix/Chevy'
     },
 
